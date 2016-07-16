@@ -1,0 +1,87 @@
+
+.white{
+    background: white;
+}
+
+.hr{
+    height: 20px;
+}
+.nav{
+}
+.container-fluid{
+    padding: 0;
+    height: 100%;
+}
+
+.navbar-header{
+    width:313px;
+    height: 153px;
+    background: #21C2F8;
+    text-align: center;
+    line-height: 90px;
+    color:white;
+    
+}
+.navbar-nav li a:hover{
+   border: 1px solid grey;
+    background: black;
+    color:white;
+    
+}
+.nav ul li a{
+    padding: 14px 24px 16px 24px;
+    font-size: 30px;
+}
+.recent{
+    height: 370px;
+
+}
+.welcome{
+    background: #F2F2F2;
+}
+
+
+
+.serviceList{
+    padding-left: 0;
+    
+}
+
+.serviceList a{
+    padding: 21px 0 24px 27px;
+    margin-top: 10px;
+    font-size: 24px;
+    background: #21C2F8;
+    color: white;
+    border-radius: none;
+
+}
+
+.serviceList a:hover{
+    background: #222533;
+    color: #21C2F8;
+    
+}
+
+.serviceList a:first-child{
+    margin: 0;
+}
+
+.succeed{
+    background: url("../img/parallax1.jpg");
+    color: white;
+    
+}
+
+.succeed p {
+    font-size: 15px;
+}
+.succeed strong{
+    font-size: 95px;
+    text-align: center;
+}
+.succeed small{
+    font-weight: 400;
+    line-height: 95px;
+}
+
